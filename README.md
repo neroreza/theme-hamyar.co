@@ -5,4 +5,4 @@ not responsive.
                                                                  
 you can see the screnshot of them below :                                         
  
-<img src="screen.png">
+<img src="screen.jpg">
